@@ -2,6 +2,10 @@
 
 <img width="768" height="432" alt="in2i0j9k" src="https://github.com/user-attachments/assets/a3bb5710-3626-4364-bf2e-13045b917894" />
 
+Disclaimer ⚠️:
+All datasets, reports, and presentation slides used in this project are entirely fictional. They do not contain any real proprietary, confidential, or sensitive information from any company, institution, or individual mentioned. The data is simulated solely for educational and demonstration purposes and is intended to showcase my proficiency in using advanced Microsoft Excel for retail business analysis.
+
+
 
 ### Table of Contents
 ---
